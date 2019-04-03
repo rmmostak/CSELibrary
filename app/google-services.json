@@ -23,8 +23,12 @@
           }
         },
         {
-          "client_id": "594935555765-su8qldoooqrnncdiu05vaj73a9oc2fvl.apps.googleusercontent.com",
-          "client_type": 3
+          "client_id": "594935555765-5b0bp21gjlqtmghnjfjeouanjsou6dci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rmproduct.cselibrary",
+            "certificate_hash": "aa858d3616199c75de642ceff16367cac9e73496"
+          }
         }
       ],
       "api_key": [
@@ -33,20 +37,13 @@
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 2,
           "other_platform_oauth_client": [
             {
               "client_id": "594935555765-su8qldoooqrnncdiu05vaj73a9oc2fvl.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     }
